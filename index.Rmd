@@ -1,0 +1,14 @@
+--- 
+title: "Poemario"
+author: "Gaston Sanchez"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+link-citations: yes
+github-repo: gastonstat/poemario
+---
+
+# Prefacio {-}
+
+
+Fragmentos improbables arrebatados de las garras del olvido
