@@ -1,5 +1,6 @@
 --- 
 title: "Poemario"
+subtitle: "Fragmentos improbables arrebatados de las garras del olvido"
 author: "Gaston Sanchez"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -11,4 +12,5 @@ github-repo: gastonstat/poemario
 # Prefacio {-}
 
 
-Fragmentos improbables arrebatados de las garras del olvido
+Versos escritos a lo largo de más de veinte años en momentos diversos de amor, desamor, cólera, asombro, fracaso, duda, alegría, pero sobre todo, ante todo y pese a todo ... vida.
+
