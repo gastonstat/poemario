@@ -23,6 +23,7 @@ rmd_files: [
   "fragmento.Rmd",
   "hoy.Rmd",
   "insignia.Rmd",
+  "laberinto.Rmd",
   "mar.Rmd",
   "melancolia.Rmd",
   "mentiria.Rmd",
