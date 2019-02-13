@@ -17,11 +17,13 @@ rmd_files: [
   "biodegradable.Rmd",
   "condena.Rmd",
   "desdoblas.Rmd",
+  "encordados.Rmd",
   "epicentro.Rmd",
   "eramos.Rmd",
   "estela.Rmd",
   "fragmento.Rmd",
   "hoy.Rmd",
+  "imperio.Rmd",
   "insignia.Rmd",
   "laberinto.Rmd",
   "mar.Rmd",
@@ -50,6 +52,7 @@ rmd_files: [
   "te-espero.Rmd",
   "tiempo.Rmd",
   "tres-deseos.Rmd",
+  "ventanilla.Rmd",
   "viaje.Rmd",
   "viento.Rmd"
 ]
