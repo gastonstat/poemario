@@ -5,6 +5,6 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Poemario</a></li>
       after: |
-        <li><a href="http://gastonsanchez.com" target="blank">Gaston Sanchez</a></li>
+        <li><a href="https://gastonsanchez.com" target="blank">Gaston Sanchez</a></li>
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 bookdown::epub_book: default
