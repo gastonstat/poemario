@@ -28,7 +28,7 @@ de un pasado que nunca será.<br>
 A la orilla del mediterráneo,<br>
 tumbado en la playa arenisca<br>
 imploré al cielo dijera tu nombre<br>
-para sólo escuchar el silencio.<br>
+pero sólo escuché su silencio.<br>
 
 A la orilla de aquel azul cielo<br>
 comprendí que no había más que yo,<br>
